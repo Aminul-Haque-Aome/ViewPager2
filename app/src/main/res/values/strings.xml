@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">My Base</string>
+    <string name="pref_name">my_base_pref</string>
+    <string name="app_database_name">my_app_database</string>
+
+    <string name="hire_the_right_tutor_today">Hire the right tutor today!</string>
+    <string name="book_one_on_one_lessons_with_verified_tutors_in_your_area">Book one-on-one lessons with verified tutors in your area</string>
+    <string name="hiring_tutor_description">Hi! I\'m searching for hiring a tutor</string>
+    <string name="getting_tuition_description">Hi! I\'m searching for tuition</string>
+    <string name="or_you_can_check_those">Or you can check those</string>
+    <string name="it_s_free">- It\'s Free !</string>
+    <string name="call_for_info">Call for Info</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="choose_yourself">Choose Yourself</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="terms_amp_conditions">Terms &amp; Condition</string>
+    <string name="i_agree_to_the">I agree to the</string>
+    <string name="register_as_a_tutor">Register as Tutor</string>
+    <string name="register_as_a_guardian">Register as Guardian</string>
+    <string name="sign_up_to_continue">Sign up to continue</string>
+    <string name="please_select_a_type_to_recover_your_account">Please Select a Type to Recover your Account</string>
+    <string name="password_reset_with_number">Password Reset with Number</string>
+    <string name="password_reset_with_email">Password Reset with Email</string>
+    <string name="enter_the_email_associate_with_your_account">Enter the Email associate with your Account</string>
+    <string name="enter_the_phone_number_associate_with_your_account">Enter the Phone Number associate with your Account</string>
+    <string name="verification_code_related_text">Enter the verification code we just sent you on your phone</string>
+    <string name="code">Code</string>
+    <string name="verify_code">Verify Code</string>
+
+    <string name="hire_a_tutor">Hire a Tutor</string>
+    <string name="become_a_tutor">Become a Tutor</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="verification">Verification</string>
+
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="job_board">Job Board</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="resend_otp_after">Resend OTP after</string>
+
+</resources>
